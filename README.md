@@ -1,2 +1,2 @@
 # DemoGrid
-<img src="https://i.imgur.com/rzatoUr.png" alt="grid" height="42" width="42">
+<img src="https://i.imgur.com/rzatoUr.png" alt="grid" height="100" width="442">
